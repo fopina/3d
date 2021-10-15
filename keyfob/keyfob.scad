@@ -1,0 +1,12 @@
+translate([0,4,0])
+    linear_extrude(5)
+        text("S");
+translate([2,-5,0])
+    linear_extrude(5)
+        text("F");
+translate([5,0,0])
+    linear_extrude(7)
+        text("A");
+translate([-5,0,0])
+    linear_extrude(7)
+        text("G");
