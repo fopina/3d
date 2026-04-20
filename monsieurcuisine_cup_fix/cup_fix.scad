@@ -1,13 +1,13 @@
 leg_bottom_width = 5;
 leg_top_width = 6;
-leg_height = 12;
+leg_height = 8;
 leg_thickness = 2;
 
 sleeve_wall = 0.8;
 sleeve_clearance = 0.1;
-sleeve_height = 3;
+sleeve_height = 2;
 sleeve_overlap = 1.2;
-sleeve_extra_width = 3;
+sleeve_extra_width = 1.5;
 sleeve_extra_thickness = 3;
 
 module polygon_leg(
