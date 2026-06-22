@@ -1,0 +1,3 @@
+[submodule "_common/MCAD"]
+	path = _common/MCAD
+	url = https://github.com/openscad/MCAD
