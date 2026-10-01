@@ -6,9 +6,10 @@
 // Vertical height covered above the supporting floor (not sloping wing length).
 height = 45; // [10:1:120]
 // Clear gap: at the floor in apart mode; perpendicular to wings in parallel mode.
-width = 22; // [5:0.5:50]
+// 19 for MBP M4 16" - 22 for Acer A515 - 17 for MBP 2017 16"
+width = 17; // [5:0.5:50]
 // Stand size along the laptop's bottom edge.
-length = 100; // [20:1:250]
+length = 70; // [20:1:250]
 
 /* [Support] */
 // Horizontal foot extension beyond the complete wing envelope, on each side.
