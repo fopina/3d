@@ -2,6 +2,14 @@
 
 Parametric OpenSCAD model of the removable lever piece shown on the left in the reference photo. The model is intended to fit over the dispenser-side drive feature while replacing the original handle shape.
 
+## Original parts
+
+The removable lever being redesigned is on the left; the dispenser-side part that stays in place is on the right.
+
+![Original fridge dispenser parts](original.png)
+
+## Model preview
+
 ![OpenSCAD preview of the removable lever](preview.png)
 
 Open `fridge_water_tap.scad` in OpenSCAD. Dimensions are in millimeters; the part is oriented with +Z up and +Y toward the user/front of the fridge.
