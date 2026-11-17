@@ -6,7 +6,7 @@ Parametric OpenSCAD model of the removable lever piece shown on the left in the 
 
 The removable lever being redesigned is on the left; the dispenser-side part that stays in place is on the right.
 
-![Original fridge dispenser parts](original.png)
+![Original fridge dispenser parts](original.jpg)
 
 ## Model preview
 
